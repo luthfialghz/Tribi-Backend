@@ -4,7 +4,7 @@
   "description": "tribi-endpoint",
   "main": "server.js",
   "scripts": {
-    "start": "node ./src/app/app.js",
+    "start": "node server.js",
     "dev": "nodemon ./src/app/app.js",
     "test": "nodemon minio.js"
   },
