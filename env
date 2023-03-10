@@ -2,6 +2,7 @@ DB_HOST = 'containers-us-west-115.railway.app'
 DB_USER = 'postgres'
 DB_PASS = 'F09yOCWn3UoQOTH4K3rb'
 DB_NAME = 'railway'
+DB_PORT = '7553'
 DB_URI = 'postgresql://postgres:F09yOCWn3UoQOTH4K3rb@containers-us-west-115.railway.app:7553/railway'
 
 

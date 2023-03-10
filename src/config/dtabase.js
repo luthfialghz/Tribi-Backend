@@ -1,6 +1,7 @@
 // Require mysql
 require("dotenv").config();
 const Pool = require("pg").Pool;
+const Sequelize = require("sequelize");
 
 // Create a connection
 // const pool = new Pool({
