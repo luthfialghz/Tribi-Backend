@@ -2,6 +2,7 @@ DB_HOST = '127.0.0.1'
 DB_USER = 'postgres'
 DB_PASS = '12345'
 DB_NAME = 'tribi_db'
+DB_URI = 'postgresql://postgres:F09yOCWn3UoQOTH4K3rb@containers-us-west-115.railway.app:7553/railway'
 
 
 
